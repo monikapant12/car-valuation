@@ -4,8 +4,6 @@ Monika Pant
 Prajwal Jaiswal
 Pratibha Singh
   
-Domain:
-  Pharma
+Domain: Pharma
   
-Objective:
-  Classifying genetic mutations based on clinical evidence
+Objective: Classifying genetic mutations based on clinical evidence
