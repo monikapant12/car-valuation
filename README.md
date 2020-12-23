@@ -1,8 +1,8 @@
 # redefining-cancer-treatment
 Team Members:
-#Monika Pant
-#Prajwal Jaiswal
-#Pratibha Singh
+1. Monika Pant
+2. Prajwal Jaiswal
+3. Pratibha Singh
   
 Domain: Pharma
   
