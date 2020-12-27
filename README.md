@@ -1,9 +1,13 @@
 # redefining-cancer-treatment
-Team Members:
+# Team Members:
 1. Monika Pant
 2. Prajwal Jaiswal
 3. Pratibha Singh
   
-Domain: Pharma
+# Domain: Pharma
   
-Objective: Classifying genetic mutations based on clinical evidence
+# Objective
+Classifying genetic mutations based on clinical evidence
+
+# Software
+R and Python
