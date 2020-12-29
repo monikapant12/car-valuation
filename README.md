@@ -9,5 +9,3 @@
 # Objective
 Classifying genetic mutations based on clinical evidence
 
-# Software
-R and Python
