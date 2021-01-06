@@ -14,6 +14,7 @@ https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
 # References:
 1. cancer.org/latest-news/personalized-medicine-redefining-cancer-and-its-treatment.html
-2. medium.com/datadriveninvestor/personalized-cancer-diagnosis-aea93bad0587
+
+
 
 
