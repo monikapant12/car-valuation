@@ -1,5 +1,6 @@
 # Personalized Medicine: Redefining Cancer Treatment
 . Personalized cancer medicine comes from studies of human genes and the genes in different cancers. These studies have helped researchers design more effective treatments. They have also used genetic information to develop tests for cancer and ways to prevent it.
+
 . Personalized cancer medicine can have fewer side effects than other types of treatment. This is because it is designed to be more specific. A personalized treatment may affect healthy cells less and cells involved in cancer more.
 
 
