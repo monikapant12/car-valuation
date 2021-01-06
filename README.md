@@ -1,8 +1,4 @@
 # Personalized Medicine: Redefining Cancer Treatment
-. Personalized cancer medicine comes from studies of human genes and the genes in different cancers. These studies have helped researchers design more effective treatments. They have also used genetic information to develop tests for cancer and ways to prevent it.
-
-. Personalized cancer medicine can have fewer side effects than other types of treatment. This is because it is designed to be more specific. A personalized treatment may affect healthy cells less and cells involved in cancer more.
-
 
 # Team Members:
 1. Monika Pant
@@ -12,7 +8,7 @@
 # Domain: Pharma
   
 # Objective
-Classifying genetic mutations based on clinical evidence
+Once sequenced, a cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations (passangeras). We need to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
 
 # Data
 https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
