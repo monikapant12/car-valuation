@@ -8,10 +8,10 @@
 # Domain: Pharma
   
 # Objective
-Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
+   Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 
 # Data
- Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+   Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
    Data Overview :
    
