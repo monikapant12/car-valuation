@@ -11,21 +11,14 @@
 Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 
 # Data
-https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
-
-Data Description:
-
-* There are nine different classes a genetic mutation can be classified on.
-
-* This is not a trivial task since interpreting clinical evidence is very challenging even for human specialists. Therefore, modeling the clinical evidence (text)          will be critical for the success of your approach.
-
-* Both, training and test, data sets are provided via two different files. One (training/test_variants) provides the information about the genetic mutations, whereas the other (training/test_text) provides the clinical evidence (text) that our human experts used to classify the genetic mutations. Both are linked via the ID field.
-
-* Therefore the genetic mutation (row) with ID=15 in the file training_variants, was classified using the clinical evidence (text) from the row with ID=15 in the file training_text
-
-* Finally, to make it more exciting!! Some of the test data is machine-generated to prevent hand labeling. You will submit all the results of your classification algorithm, and we will ignore the machine-generated samples. 
-
+   #Data Overview
+   . We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that human experts/pathologists use to        classify the genetic mutations.
+   . Both these data files are have a common column called ID
+   . Data file's information:
+           . training_variants (ID , Gene, Variations, Class)
+           . training_text (ID, Text)
 # References:
 1. cancer.org/latest-news/personalized-medicine-redefining-cancer-and-its-treatment.html
 2. https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25
