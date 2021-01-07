@@ -8,7 +8,7 @@
 # Domain: Pharma
   
 # Objective
-Once sequenced, a cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations (passangeras). We need to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
+Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 
 # Data
 https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
