@@ -28,6 +28,8 @@ Data Description:
 
 # References:
 1. cancer.org/latest-news/personalized-medicine-redefining-cancer-and-its-treatment.html
+2. https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25
+3. https://www.youtube.com/watch?v=qxXRKVompI8
 
 
 
