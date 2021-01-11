@@ -15,19 +15,19 @@
 
    Data Overview :
    
-   . We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that human experts/pathologists use to      classify the genetic mutations.
+   * We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that human experts/pathologists use to      classify the genetic mutations.
    
-   . Both these data files are have a common column called ID
+   * Both these data files are have a common column called ID
    
-   . Data file's information:
+   * Data file's information:
    
-           . training_variants (ID , Gene, Variations, Class)
+      * training_variants (ID , Gene, Variations, Class)
            
-           . training_text (ID, Text)
+      * training_text (ID, Text)
 # References:
 1. cancer.org/latest-news/personalized-medicine-redefining-cancer-and-its-treatment.html
-2. https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25
-3. https://www.youtube.com/watch?v=qxXRKVompI8
+2. forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25
+3. youtube.com/watch?v=qxXRKVompI8
 
 
 
