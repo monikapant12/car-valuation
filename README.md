@@ -6,7 +6,7 @@ Personalized cancer medicine comes from studies of human genes and the genes in 
 2. Prajwal Jaiswal
 3. Pratibha Singh
   
-# Domain: Pharma
+# Domain: Medicine
   
 # Objective
   To classify the given genetic variations/mutations based on evidence from text-based clinical literature.
