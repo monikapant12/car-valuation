@@ -1,4 +1,5 @@
 # Personalized Medicine: Redefining Cancer Treatment
+Personalized cancer medicine comes from studies of human genes and the genes in different cancers. These studies have helped researchers design more effective treatments. They have also used genetic information to develop tests for cancer and ways to prevent it.
 
 # Team Members:
 1. Monika Pant
