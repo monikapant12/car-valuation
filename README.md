@@ -8,7 +8,7 @@
 # Domain: Medicine
   
 # Objective
-  To predict the prices of pre-owned cars based on some the specifications of the car.
+  To predict the prices of pre-owned cars based on the specifications of the car.
 
 # Data
    
